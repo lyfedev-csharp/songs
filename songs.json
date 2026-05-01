@@ -3,5 +3,25 @@
         "title": "Cicada",
         "artist": "Good Kid",
         "file": "cicada-goodkid.mp3"
+    },
+    {
+        "title": "lovefool demo",
+        "artist": "wifiskeleton",
+        "file": "lovefool demo.mp3"
+    },
+    {
+        "title": "Still into You",
+        "artist": "Paramore",
+        "file": "Still into You.mp3"
+    },
+    {
+        "title": "Sunday Morning",
+        "artist": "Maroon 5",
+        "file": "Sunday Morning.mp3"
+    },
+    {
+        "title": "Everywhereigo",
+        "artist": "Babyxsosa",
+        "file": "Everywhereigo.mp3"
     }
 ]
